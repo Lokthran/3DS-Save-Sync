@@ -1,7 +1,8 @@
 # 3DS-Save-Sync
 A Python-based tool to back up and transfer 3DS, NDS,  GBA and custom save files via FTP.
 
-<img width="746" height="682" alt="grafik" src="https://github.com/user-attachments/assets/277ef628-c826-456e-9f49-5739f8b15e90" />
+<img width="751" height="686" alt="grafik" src="https://github.com/user-attachments/assets/c6838839-ba3e-4085-a615-677255676cab" />
+
 
 ## Features
 
