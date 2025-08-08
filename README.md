@@ -28,3 +28,6 @@ A Python-based tool to back up and transfer 3DS, NDS,  GBA and custom save files
     -   Enter your 3DS's IP address or leave it blank to scan.
     -   Select the categories you want to sync by enabling them.
     -   Click "Download to PC" or "Upload to 3DS".
+
+
+**For 3DS Games:** Please use Checkpoint on your console to export your save files first.
